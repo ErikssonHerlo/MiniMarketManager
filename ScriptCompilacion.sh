@@ -1,0 +1,1 @@
+g++ Carreta.cpp Cliente.cpp ColaEsperaEntrada.cpp ColaPagar.cpp ListaCajas.cpp ListaCompradores.cpp Main.cpp NodoColaEsperaEntrada.cpp NodoColaPagar.cpp NodoListaCajas.cpp NodoListaCompradores.cpp NodoPilaCarretas.cpp PilaCarretas.cpp Simulacion.cpp
